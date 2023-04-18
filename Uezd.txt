@@ -1,0 +1,8 @@
+﻿Valgamaa-Valga
+Viljandimaa-Viljandi
+Võrumaa-Võru
+Ida Virumaa-Jõhvi
+Jõgevamaa-Jõgeva
+Lääne Virumaa-Rakvere
+Läänemaa-Haapsalu
+Tartumaa-Tartu
